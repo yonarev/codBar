@@ -1,0 +1,7 @@
+21:37 20-10-2022
+en git
+codbar
+git add
+git commit -m "first commit"
+git branch -M main
+git init
